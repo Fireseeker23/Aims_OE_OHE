@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-test_data = 'data/test.csv'
+test_data = 'test.csv'
 home_data = pd.read_csv(test_data)
 
 
